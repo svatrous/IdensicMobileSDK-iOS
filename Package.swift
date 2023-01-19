@@ -16,7 +16,7 @@ enum checksums {
 let package = Package(
     name: "IdensicMobileSDK",
     platforms: [
-        .iOS(.v10)
+        .iOS(.v13)
     ],
     products: [
         .library(
